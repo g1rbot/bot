@@ -12,6 +12,6 @@ async def wiki(ctx, *, words):
 @client.event 
 async def on_ready():
     print("the bot is ready")
-client.run("NjQ3MDQwNDgzMTI1ODg2OTc2.XdZ-GQ.dyO1TWuSmlU-hyLx_2H_SgAubWY")
+client.run("")
 
 
